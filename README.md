@@ -1,5 +1,5 @@
 # totp_generator.py
-/\* CSS for code blocks \*/ pre { background-color: #f4f4f4; border: 1px solid #d1d1d1; border-radius: 5px; padding: 10px; font-family: 'Courier New', monospace; white-space: pre-wrap; } /\* CSS for inline code \*/ code { background-color: #f4f4f4; border: 1px solid #d1d1d1; border-radius: 3px; padding: 2px; font-family: 'Courier New', monospace; } /\* CSS for headings \*/ h1, h2 { color: #333; } /\* CSS for links \*/ a { color: #007acc; }
+
 
 TOTP Code Generator with Skew
 =============================
